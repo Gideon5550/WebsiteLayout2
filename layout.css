@@ -1,0 +1,27 @@
+body{
+    margin: 10px;
+}
+.log{
+    background-color: rgba(184, 135, 11, 0.688);
+    color: white;
+    padding-bottom: 30px;
+}
+.logo{
+    background-color: darkgoldenrod;
+    color: white;
+    height: 30px;
+    word-spacing: 50px;
+}
+.sector{
+    display: flex;
+}
+.nav{
+   padding-right: 500px;
+   padding-left: 20px;
+   background-color: rgb(242, 181, 27);
+   margin-left: 20px; 
+}
+.sect h3{
+text-decoration: underline;
+color: darkgoldenrod;
+}
